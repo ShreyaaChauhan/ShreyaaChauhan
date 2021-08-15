@@ -20,9 +20,9 @@
 
 
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyaachauhan&show_icons=true&locale=en&layout=compact" alt="shreyaachauhan" width="300" />
-  <img src="https://github-readme-stats.vercel.app/api?username=shreyaachauhan&show_icons=true&locale=en"  alt="shreyaachauhan" width="300"/> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyaachauhan&" alt="shreyaachauhan" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyaachauhan&show_icons=true&locale=en&layout=compact" alt="shreyaachauhan" width="275" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shreyaachauhan&show_icons=true&locale=en"  alt="shreyaachauhan" width="275"/> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyaachauhan&" alt="shreyaachauhan" width="275"/>
 </p>
 
 <a href="https://github.com/ShreyaaChauhan/github-readme-activity-graph"><img alt="Shreya Chauhan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ShreyaaChauhan&bg_color=FFFFFF&color=000000&line=BA55D3&point=800080&hide_border=true" /></a>
