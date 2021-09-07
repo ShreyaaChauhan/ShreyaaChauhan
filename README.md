@@ -2,8 +2,8 @@
 
 ## Hi there, I'm Shreya - 👋
 ### And I love exploring new things!
--  🔭 I'm currently working on my github profile and portfolio
--  🌱 I'm currently learning Data Visualization using D3, JavaScript, React
+-  🔭 I'm currently working on https://github.com/ShreyaaChauhan/data-visualization-using-d3
+-  🌱 I'm currently learning Data Visualization using D3, JavaScript, React and using Postman Software
 -  🥅 2021 Goals: Start my own technical Blogging Site. And to work on some amazing projects. 
 -  ⚡ Fun fact: I love travelling, being there in thw wilderness and I am Opacarophile. 🌇 
 
