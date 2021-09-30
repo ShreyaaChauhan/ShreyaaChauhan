@@ -5,7 +5,7 @@
 -  🔭 I'm currently working on https://github.com/ShreyaaChauhan/data-visualization-using-d3 and https://github.com/ShreyaaChauhan/NodeAndExpress
 -  🌱 I'm currently learning Data Visualization using D3, JavaScript, React and using Postman Software
 -  🥅 2021 Goals: Start my own technical Blogging Site. And to work on some amazing projects. 
--  ⚡ Fun fact: I love travelling, being there in thw wilderness and I am Opacarophile. 🌇 
+-  ⚡ Fun fact: I love travelling, being there in the wilderness and I am Opacarophile. 🌇 
 
 ### Connect with me:
 [<img align="left" alt="shreyaachauhan | LinkedIn" width="22px" src="Images/linkedin_logo_icon.svg" />](https://www.linkedin.com/in/shreya-chauhan-256092102/)
