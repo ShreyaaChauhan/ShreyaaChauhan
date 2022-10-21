@@ -2,7 +2,7 @@
 
 ## Hi there, I'm Shreya - 👋
 ### And I love exploring new things!
--  🔭 I'm currently working on https://github.com/ShreyaaChauhan/data-visualization-using-d3 and https://github.com/ShreyaaChauhan/NodeAndExpress
+-  🔭 I'm currently working on https://github.com/ShreyaaChauhan/Notes and https://github.com/ShreyaaChauhan/NodeAndExpress
 -  🌱 I'm currently learning Data Visualization using D3, JavaScript, React and using Postman Software
 -  🥅 2021 Goals: Start my own technical Blogging Site. And to work on some amazing projects. 
 -  ⚡ Fun fact: I love travelling, being there in the wilderness and I am Opacarophile. 🌇 
