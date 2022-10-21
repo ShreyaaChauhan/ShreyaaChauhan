@@ -4,7 +4,7 @@
 ### And I love exploring new things!
 -  🔭 I'm currently working on https://github.com/ShreyaaChauhan/Notes and https://github.com/ShreyaaChauhan/Elements-of-programming-interviews-practice-questions
 -  🌱 I'm currently learning about docker and doing programming interviews questions
--  🥅 2023 Goals: To work on my thesis idea. 
+-  🥅 2023 Goals: To work on my thesis idea, to push code daily 
 -  ⚡ Fun fact: I love travelling, being there in the wilderness and I am Opacarophile. 🌇 
 
 ### Connect with me:
