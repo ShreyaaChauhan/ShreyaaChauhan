@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyaachauhan&label=Profile%20views&color=0e75b6&style=flat" alt="shreyaachauhan" /> </p>
 
-<center> "Consistency is the Key" </center>
+# "Consistency is the Key" 
 ## Hi there, I'm Shreya - 👋
 ### And I love exploring new things!
 -  🔭 I'm currently working on https://github.com/ShreyaaChauhan/Notes and https://github.com/ShreyaaChauhan/Elements-of-programming-interviews-practice-questions
