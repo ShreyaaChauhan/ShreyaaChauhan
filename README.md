@@ -3,9 +3,9 @@
 # "Consistency is the Key🔑" 
 ## Hi there, I'm Shreya - 👋
 ### And I love exploring new things!
--  🔭 I'm currently working on https://github.com/ShreyaaChauhan/Notes and https://github.com/ShreyaaChauhan/Elements-of-programming-interviews-practice-questions
--  🌱 I'm currently learning about docker and doing programming interviews questions
--  🥅 2023 Goals: To work on my thesis
+-  🔭 I'm currently working on my 9-5 job :)
+-  🌱 I'm currently reading clean coder book 
+-  🥅 2024 Goals: Learn as much I can
 -  ⚡ Fun fact: I love travelling, being there in the wilderness and I am Opacarophile. 🌇 
 
 ### Connect with me:
