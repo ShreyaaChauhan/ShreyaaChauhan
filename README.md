@@ -3,9 +3,9 @@
 # "Consistency is the Key🔑" 
 ## Hi there, I'm Shreya - 👋
 ### And I love exploring new things!
--  🔭 I'm currently working on my 9-5 job :)
--  🌱 I'm currently reading clean coder book 
--  🥅 2024 Goals: Learn as much I can
+-  🔭 Oviously working on my 9-5 job :)
+-  🌱 I'm currently learning about github actions
+-  🥅 2025 Goals: Expand my technical horizon
 -  ⚡ Fun fact: I love travelling, being there in the wilderness and I am Opacarophile. 🌇 
 
 ### Connect with me:
