@@ -10,6 +10,5 @@
 
 ### Connect with me:
 [<img align="left" alt="shreyaachauhan | LinkedIn" width="22px" src="Images/linkedin_logo_icon.svg" />](https://www.linkedin.com/in/shreya-chauhan-1113/)
-[<img align="left" alt="shreyaachauhan | Instagram" width="22px" src="Images/Instagram.png" />](https://www.instagram.com/___shreyachauhan___/)
-[<img align="left" alt="shreyaachauhan | Instagram" width="22px" src="Images/facebook_icon-icons.svg" />](https://www.facebook.com/shreyachauhan13/)
+[<img align="left" alt="shreyaachauhan | Gmail" width="22px" src="Images/Gmail.png" />](shreyachauhan.dev@gmail.com)
 
