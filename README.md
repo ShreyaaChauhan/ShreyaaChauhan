@@ -10,5 +10,5 @@
 
 ### Connect with me:
 [<img align="left" alt="shreyaachauhan | LinkedIn" width="22px" src="Images/linkedin_logo_icon.svg" />](https://www.linkedin.com/in/shreya-chauhan-1113/)
-[<img align="left" alt="shreyaachauhan | Gmail" width="22px" src="Images/Gmail.png" />](shreyachauhan.dev@gmail.com)
+[<img align="left" alt="shreyaachauhan | Gmail" width="22px" src="Images/Gmail.png" />](mailto:shreyachauhan.dev@gmail.com)
 
