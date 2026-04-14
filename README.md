@@ -12,6 +12,6 @@
 [<img align="left" alt="shreyaachauhan | LinkedIn" width="22px" src="Images/linkedin_logo_icon.svg" />](https://www.linkedin.com/in/shreyachauhan1113/)
 [<img align="left" alt="shreyaachauhan | Gmail" width="22px" src="Images/Gmail.png" />](mailto:shreyachauhan.dev@gmail.com)
 [<img align="left" alt="shreyaachauhan | Medium" width="22px" src="Images/Medium.png" />](https://medium.com/@shreyachauhan.dev)
-[<img align="left" alt="shreyaachauhan | Leetcode" width="22px" src="Images/Leetcode.png" />](https://leetcode.com/u/shreyachauhan13/)
+[<img align="left" alt="shreyaachauhan | Leetcode" width="50px" src="Images/leetcode.svg" />](https://leetcode.com/u/shreyachauhan13/)
 
 
