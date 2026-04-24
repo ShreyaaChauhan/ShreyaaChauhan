@@ -10,10 +10,6 @@
 
 ### Languages and Tools
 
-
-### Most Frequently Used Langugage
-  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyaChauhan&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
-
 ### Key Mantra? 
 "Consistency is the Key🔑"
 
@@ -23,4 +19,8 @@
 [<img align="left" alt="shreyaachauhan | Medium" width="22px" src="Images/Medium.png" />](https://medium.com/@shreyachauhan.dev)
 [<img align="left" alt="shreyaachauhan | Leetcode" width="22px" src="Images/leetcode.svg" />](https://leetcode.com/u/shreyachauhan13/)
 
+<br />
+<br />
+
+<img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyaChauhan&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
 
