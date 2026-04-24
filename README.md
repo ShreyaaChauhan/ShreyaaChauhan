@@ -31,7 +31,7 @@
 ### 🔨 Languages and Tools:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,githubactions,kubernetes,docker,yarn,terraform,angular,css,html,htmx,figma,d3,express,js,java,graphql,aws,azure,gcp,bash,bitbucket,bootstrap,webstorm,vscode,regex,redix,redux,react," />
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions,kubernetes,docker,yarn,terraform,angular,css,html,htmx,figma,d3,express,js,java,graphql,aws,azure,gcp,bash,bitbucket,bootstrap,webstorm,vscode,regex,redis,redux,react,latex," />
   </a>
 </p>
 
