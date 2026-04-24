@@ -29,9 +29,44 @@
 ##
 
 ### 🔨 Languages and Tools:
+#### Programming Languages
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,githubactions,kubernetes,docker,yarn,terraform,ts,angular,css,html,htmx,figma,d3,express,js,java,graphql,aws,azure,gcp,bash,bitbucket,bootstrap,webstorm,vscode,regex,redis,redux,react,latex,nestjs,nodejs,postgres" />
+    <img src="https://skillicons.dev/icons?i=ts,js,java" />
+  </a>
+</p>
+
+#### Database
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgresql"/>
+  </a>
+</p>
+
+#### Cloud Services
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=gcp,azure,aws"/>
+  </a>
+</p>
+
+#### Frontend Framewroks
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=angular,react"/>
+  </a>
+</p>
+
+#### IDEs
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=webstorm,vscode"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions,kubernetes,docker,yarn,terraform,ts,angular,css,html,htmx,figma,d3,express,js,graphql,aws,azure,gcp,bash,bitbucket,bootstrap,webstorm,vscode,regex,redis,redux,react,latex,nestjs,nodejs,postgres" />
   </a>
 </p>
 
