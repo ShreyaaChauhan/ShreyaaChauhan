@@ -8,6 +8,12 @@
 -  ⚡ Fun fact: I love travelling, being there in the wilderness and I am Opacarophile. 🌇
 -  📖 Avid Reader: I am on 116 week streak currently 😉
 
+### Languages and Tools
+
+
+### Most Frequently Used Langugage
+  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyaChauhan&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
+
 ### Key Mantra? 
 "Consistency is the Key🔑"
 
