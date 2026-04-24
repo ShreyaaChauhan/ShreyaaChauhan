@@ -40,7 +40,7 @@
 
 <br />
 <br />
-<em> Feel free to ping me over linkedin or contact me Via mail :) Happy to hope on a call or meet for Coffee ☕  </em>
+<em> <b> Feel free to ping me over linkedin or contact me Via mail :) Happy to hope on a call or meet for Coffee ☕ </b> </em>
 <br />
 <br />
 
