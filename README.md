@@ -49,11 +49,10 @@
 [<img align="left" alt="shreyaachauhan | Leetcode" width="22px" src="Images/leetcode.svg" />](https://leetcode.com/u/shreyachauhan13/)
 [<img align="left" alt="shreyaachauhan | Topmate" width="22px" src="Images/topmate.png" />](https://topmate.io/chauhanshreya)
 
-##
+</br>
 
 <em> <b> Feel free to ping me over linkedin or contact me Via mail :) Happy to hope on a call or meet for Coffee ☕ </b> </em>
 
 ##
-
 More on https://shreyaachauhan.github.io/
 
