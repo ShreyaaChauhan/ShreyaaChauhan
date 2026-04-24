@@ -1,4 +1,7 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyaachauhan&label=Profile%20views&color=0e75b6&style=flat" alt="shreyaachauhan" /> </p>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+
+<p>I'm Shreya, Fullstack Developer currently based in <img src="" width="13"/> <b>Frankfurt, Germany</b>.</p>
+<h3>Things I code with</h3>
 
 # "Consistency is the Key🔑" 
 ## Hi there, I'm Shreya - 👋
