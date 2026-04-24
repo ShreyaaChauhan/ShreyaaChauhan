@@ -1,5 +1,23 @@
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey Hi 👋 I'm Shreya.
-<p> Fullstack Developer currently based in <b>Frankfurt, Germany</b> <img src="Images/germany.png" width="13"/>.</p>
+<div align="center">
+  <h1>
+    Hey there, 👋 I'm Shreya!
+    <img src="https://github.githubassets.com/images/mona-whisper.gif" height="30" />
+  </h1>
+  <p>
+    <em>🚀 Full Stack Engineer  | 🏦 Deutsche Bank | ⚓ Frankfurt, Germany <img src="Images/germany.png" width="13"/> </em>
+  </p>
+
+  <p>
+    <a href="https://github.com/ShreyaaChauhan">
+      <img src="https://img.shields.io/github/followers/ShreyaaChauhan?label=Follow&style=social" />
+    </a>
+    <a href="https://github.com/ShreyaaChauhan">
+      <img src="https://komarev.com/ghpvc/?username=ShreyaaChauhan&color=brightgreen" />
+    </a>
+  </p>
+</div>
+
+## 
 
 ### And I love exploring new things!
 -  🔭 Oviously working on my 9-5 job :)
