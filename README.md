@@ -32,14 +32,14 @@
 #### Programming Languages
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,java" />
+    <img src="https://skillicons.dev/icons?i=ts,js,java,python,html,htmx,css,bash,latex" />
   </a>
 </p>
 
 #### Database
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgresql"/>
+    <img src="https://skillicons.dev/icons?i=postgresql,redis"/>
   </a>
 </p>
 
@@ -53,20 +53,28 @@
 #### Frontend Framewroks
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,react"/>
+    <img src="https://skillicons.dev/icons?i=angular,react,redux,bootstrap"/>
   </a>
 </p>
 
-#### IDEs
+#### Backend Framewroks
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=webstorm,vscode"/>
+    <img src="https://skillicons.dev/icons?i=express,nodejs,spring,graphql,nestjs"/>
   </a>
 </p>
 
+#### CI/CD
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,githubactions,kubernetes,docker,yarn,terraform,ts,angular,css,html,htmx,figma,d3,express,js,graphql,aws,azure,gcp,bash,bitbucket,bootstrap,webstorm,vscode,regex,redis,redux,react,latex,nestjs,nodejs,postgres" />
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions,kubernetes,docker,yarn,terraform,bitbucket"/>
+  </a>
+</p>
+
+#### IDEs and Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=webstorm,vscode,figma,postman"/>
   </a>
 </p>
 
