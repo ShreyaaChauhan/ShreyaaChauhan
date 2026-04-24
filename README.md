@@ -1,6 +1,5 @@
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.
-
-<p>I'm Shreya 👋, Fullstack Developer currently based in <b>Frankfurt, Germany</b> <img src="Images/germany.png" width="13"/>.</p>
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey Hi 👋, I'm itgoyo I'm Shreya.
+<p> Fullstack Developer currently based in <b>Frankfurt, Germany</b> <img src="Images/germany.png" width="13"/>.</p>
 
 ### And I love exploring new things!
 -  🔭 Oviously working on my 9-5 job :)
