@@ -39,6 +39,9 @@
 
 <br />
 <br />
+<em> Feel free to ping me over linkedin or contact me Via mail :) Happy to hope on a call or meet for Coffee ☕  </em>
+<br />
+<br />
 
 <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyaChauhan&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
 
