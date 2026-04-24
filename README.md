@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>I'm Shreya, Fullstack Developer currently based in <img src="" width="13"/> <b>Frankfurt, Germany</b>.</p>
+<p>I'm Shreya, Fullstack Developer currently based in <b>Frankfurt, Germany</b> <img src="Images/germany.png" width="13"/>.</p>
 <h3>Things I code with</h3>
 
 # "Consistency is the Key🔑" 
