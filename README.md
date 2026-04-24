@@ -4,7 +4,7 @@
     <img src="https://github.githubassets.com/images/mona-whisper.gif" height="30" />
   </h1>
   <p>
-    <em>🚀 Full Stack Engineer 👩🏻‍💻 | 🏦 Deutsche Bank 🏦 | ⚓ Frankfurt, Germany <img src="Images/germany.png" width="13"/> </em>
+    <em>🚀 Full Stack Engineer 👩🏻‍💻 •  🏦 Deutsche Bank 🏦 • ⚓ Frankfurt, Germany <img src="Images/germany.png" width="13"/> </em>
   </p>
 
   <p>
