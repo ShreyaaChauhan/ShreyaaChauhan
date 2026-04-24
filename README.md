@@ -26,6 +26,8 @@
 -  ⚡ Fun fact: I love travelling, being there in the wilderness and I am Opacarophile. 🌇
 -  📖 Avid Reader: I am on 116 week streak currently 😉
 
+##
+
 ### 🔨 Languages and Tools:
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
 <a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"> </a>
@@ -38,10 +40,12 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
 
-<br>
+##
 
 ### Key Mantra? 
 "Consistency is the Key🔑"
+
+##
 
 ### Connect with me:
 [<img align="left" alt="shreyaachauhan | LinkedIn" width="22px" src="Images/linkedin_logo_icon.svg" />](https://www.linkedin.com/in/shreyachauhan1113/)
@@ -50,11 +54,11 @@
 [<img align="left" alt="shreyaachauhan | Leetcode" width="22px" src="Images/leetcode.svg" />](https://leetcode.com/u/shreyachauhan13/)
 [<img align="left" alt="shreyaachauhan | Topmate" width="22px" src="Images/topmate.png" />](https://topmate.io/chauhanshreya)
 
-<br />
-<br />
+##
+
 <em> <b> Feel free to ping me over linkedin or contact me Via mail :) Happy to hope on a call or meet for Coffee ☕ </b> </em>
-<br />
-<br />
+
+##
 
 More on https://shreyaachauhan.github.io/
 
