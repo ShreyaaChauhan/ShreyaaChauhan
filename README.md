@@ -7,7 +7,7 @@
 -  🌱 I'm currently diving into data engineering concepts.
 -  🥅 2026 Goals: Share back with the community
 -  ⚡ Fun fact: I love travelling, being there in the wilderness and I am Opacarophile. 🌇
--  📖 Avid Reader: Currently Reading SQL Cookbook - Query Solutions and Techniques for All SQL Users By Anthony Molinaro & Robert de Graaf
+-  📖 Avid Reader: I am on 116 week streak currently 😉
 
 ### Key Mantra? 
 "Consistency is the Key🔑"
